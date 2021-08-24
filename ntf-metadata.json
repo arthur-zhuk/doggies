@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "breed",
+      "value": "German Shepard"
+    },
+    {
+      "trait_type": "age",
+      "value": "2"
+    }
+  ],
+  "description": "An adolescant pupper",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmdi1CubvUrzSHaQbE8wDtzSmcn4rWQ1YUR7C3JXg5mkwo",
+  "name": "Jackie"
+}
