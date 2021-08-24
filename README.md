@@ -1,10 +1,6 @@
 # Doggies
 
-NFT Smart Contract specficifally for dog pics. This NFT contract is powered with Alchemy.
-
-Hardhat and Ether.js was used to deploy this contract.
-
-Imgs are hosted on IPFS via Pinata.
+This NFT contract is powered by Alchemy. Hardhat and Ether.js were used to deploy this contract. Images are hosted on IPFS via Pinata.
 
 tx info: https://ropsten.etherscan.io/tx/0xfae4642cb59d609349050a7663e825edfb0e599786532cc433e4ccf83ee86fa0
 
